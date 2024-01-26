@@ -2,7 +2,7 @@
 - 👀 I’m interested in python full stack web development
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 📫 How to reach me karansingh14032@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am always online
 
